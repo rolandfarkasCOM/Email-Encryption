@@ -67,4 +67,4 @@ Method = POST/GET
 &subject=
 &cc_email=
 
-Make the Web a safer place. 
+Encrypted Email Sender To Secure IP. Make the Web a safer place. 
